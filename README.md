@@ -47,4 +47,5 @@ python gender_prediction.py
 
 - This project is inspired by similar projects in the field of machine learning and audio processing.
 
+©Deependra Kumar 
 ---
